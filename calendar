@@ -1,6 +1,6 @@
-#include&lt;stdio.h&gt;
-#include&lt;conio.h&gt;
-#include&lt;windows.h&gt;
+#include<stdio.h>
+#include<conio.h>
+#include<windows.h>
 
 
 struct Date{ //DECLARING VARIABLES
